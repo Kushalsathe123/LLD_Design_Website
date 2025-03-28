@@ -6,6 +6,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { ArrowRight, BookOpen, Code, Compass } from 'lucide-react';
 
+
 const RoadmapPreview = () => {
   const roadmapSteps = [
     {
