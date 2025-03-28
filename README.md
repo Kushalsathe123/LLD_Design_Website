@@ -22,7 +22,7 @@ npm install
 ```
 
 
-##Usage
+## Usage
 To run the project locally, use the following command:
 
 ```bash
@@ -30,7 +30,8 @@ npm start
 ```
 This will start the development server and you can view the website at http://localhost:3000.
 
-##Contributing
+
+## Contributing
 We welcome contributions to this project. To contribute, please follow these steps:
 
 1. Fork the repository
@@ -41,5 +42,5 @@ We welcome contributions to this project. To contribute, please follow these ste
 6. Open a pull request
 
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
